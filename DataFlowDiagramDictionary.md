@@ -1,11 +1,11 @@
 External Entities:
-  Corporate Manager - 
-  Corporate Developer - 
-  National Vulnerability Database - 
+  Corporate Manager - Individual who will request risk evaluations from the risk database and set policies for those evaluations.
+  Corporate Developer - Individual(s) who submit into the external source.
+  National Vulnerability Database - Database containing all risks associated with any external sources.
   
 Databases: 
-  NIST CPE Information - 
-  Risk DB - 
+  NIST CPE Information - Database containing known CPEs.
+  Risk DB - Database that will contain the risks associated with the company.
   
 Processes:
   Manage Code Streams - 
