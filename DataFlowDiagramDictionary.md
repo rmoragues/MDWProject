@@ -1,1 +1,4 @@
-This is for the dictionary
+External Entities:
+  Corporate Manager - 
+  Corporate Developer - 
+  National Vulnerability Database - 
