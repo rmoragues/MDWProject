@@ -6,12 +6,14 @@ External Entities:
   
   National Vulnerability Database - Database containing all risks associated with any external sources.
   
+
 Databases: 
   
   NIST CPE Information - Database containing known CPEs.
   
   Risk DB - Database that will contain the risks associated with the company.
   
+
 Processes:
   
   Manage Code Streams - 
@@ -20,6 +22,7 @@ Processes:
   
   Manage Project Information - 
   
+
 Data Flows:
   
   File - 
