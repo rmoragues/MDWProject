@@ -1,6 +1,6 @@
 #Executive Summary
 
-Problem:
+Problem:     
   As a company we are looking to bring in external source to reduce time and costs. Bringing in external source also brings in risk. We are going to need a system that can manage and process these risks. We will need a way for managers to evaluate risks against company policy. Currently there is no way for risks to be evaluated throught the NIST system.
   
 Solution:  
