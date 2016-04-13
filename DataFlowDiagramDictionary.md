@@ -2,7 +2,7 @@
 
 ###External Entities:
   
-  ##### Corporate Manager - Individual who will request risk evaluations from the risk database and set policies for those evaluations.
+  *Corporate Manager* - Individual who will request risk evaluations from the risk database and set policies for those evaluations.
   
   ##### Corporate Developer - Individual(s) who submit into the external source.
   
