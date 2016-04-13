@@ -16,11 +16,19 @@ Databases:
 
 Processes:
   
-  Manage Code Streams - 
+  Code Streams - 
+  
+  Seperate CPE Information -
+  
+  Verify Project Information -
+  
+  Manage Project Information -
+  
+  Policies Generator -
   
   Manage CPE Information -
   
-  Manage Project Information - 
+  Verify CPE Available -
   
 
 Data Flows:
