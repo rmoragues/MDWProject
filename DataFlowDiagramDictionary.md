@@ -41,11 +41,11 @@ Data Flows:
   
   CPE Information - risk information from the NIST database corresponding to particular code
   
-  CPE File - 
+  CPE File - a container holding CPE information
   
-  CPE Request - 
+  CPE Request - a request for information corresponding to particular CPE
   
-  CPE Response -
+  CPE Response - the response to a CPE request, returning CPE information
   
   Project Info Request - 
   
