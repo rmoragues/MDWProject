@@ -24,7 +24,7 @@ Processes:
   
   Manage Project Information -
   
-  Policies Generator -
+  Policies Generator -Allows the Corporate Manager to create and edit policies for projects
   
   Manage CPE Information -
   
