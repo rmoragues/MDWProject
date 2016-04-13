@@ -16,15 +16,15 @@ Databases:
 
 Processes:
   
-  Code Streams - 
+  Code Streams - Passes code to be checked and verified, as well as to send CPE information.
   
-  Seperate CPE Information -
+  Seperate CPE Information - Seperates the information to be sent into the NIST database.
   
   Verify Project Information -
   
   Manage Project Information -
   
-  Policies Generator -Allows the Corporate Manager to create and edit policies for projects
+  Policies Generator - Allows the Corporate Manager to create and edit policies for projects.
   
   Manage CPE Information -
   
