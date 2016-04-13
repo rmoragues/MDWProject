@@ -33,13 +33,13 @@ Processes:
 
 Data Flows:
   
-  File - 
+  File - a container holding code
   
-  Package - 
+  Package - a container holding multiple files
   
-  Package Query - 
+  Package Query - a request for information corresponding to particular package
   
-  CPE Information - 
+  CPE Information - risk information from the NIST database corresponding to particular code
   
   CPE File - 
   
