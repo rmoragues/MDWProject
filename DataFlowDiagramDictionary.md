@@ -22,15 +22,15 @@
   
   *Seperate CPE Information* - Seperates the information to be sent into the NIST database.
   
-  *Verify Project Information* -
+  *Manage Manifest Information* - Carries data downstream to the other processes.
   
-  *Manage Project Information* -
+  *Manage Project Information* - Sends out the correct information regarding the current project.
   
   *Policies Generator* - Allows the Corporate Manager to create and edit policies for projects.
   
-  *Manage CPE Information* -
+  *Manage CPE Information* - Sends the CPE files from the National Vulnerability Database into the NIST DB. 
   
-  *Verify CPE Available* -
+  *Verify CPE Available* - Verifies that the same CPE information does not go into the Risk DB.
   
 
 ###Data Flows:
