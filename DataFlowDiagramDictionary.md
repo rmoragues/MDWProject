@@ -61,5 +61,14 @@
   
   *Package Information Request* - Request of packages for known risks
   
+  *New Policy Data* - New policies to be implemented into the project.
+  
+  *Policy Verification* - New policies that need to be verified.
+  
+  *New Policy Information* - Policy information that will be sent into the database to be recorded.
+  
+  *Policy Information Request* -
+  
+  *Policy Information Response* -
   
   
