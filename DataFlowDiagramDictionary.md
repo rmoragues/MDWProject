@@ -35,29 +35,31 @@
 
 ###Data Flows:
   
-  *File* - a container holding code
+  *File* - A container holding code.
   
-  *Package* - a container holding multiple files
+  *File Query* - Files containing seperated CPE information.
   
-  *Package Query* - a request for information corresponding to particular package
+  *Package* - A container holding multiple files.
   
-  *CPE Information* - risk information from the NIST database corresponding to particular code
+  *Package Query* - A request for information corresponding to particular package.
   
-  *CPE File* - a container holding CPE information
+  *CPE Information* - Risk information from the NIST database corresponding to particular code.
   
-  *CPE Request* - a request for information corresponding to particular CPE
+  *CPE File* - A container holding CPE information.
   
-  *CPE Response* - the response to a CPE request, returning CPE information
+  *CPE Request* - A request for information corresponding to particular CPE.
   
-  *Project Info Request* - 
+  *CPE Response* - The response to a CPE request, returning CPE information.
   
-  *Project Info Response* - 
+  *Project Info Request* - Request of data made by the Corporate Manager.
   
-  *Package and CPE Information* -
+  *Project Info Response* - The Response to the data the Corporate Manager made.
   
-  *Package Information Response* - 
+  *Package and CPE Information* - Information that will be sent to be verified against existing data.
   
-  *Package Information Request* - 
+  *Package Information Response* - Response of packages containing risks
+  
+  *Package Information Request* - Request of packages for known risks
   
   
   
