@@ -67,8 +67,8 @@
   
   *New Policy Information* - Policy information that will be sent into the database to be recorded.
   
-  *Policy Information Request* -
+  *Policy Information Request* - Information about policies that the Corporate Manager asks for.
   
-  *Policy Information Response* -
+  *Policy Information Response* - The return of the available policies in place.
   
   
