@@ -15,6 +15,7 @@
   
   *Risk DB* - Database that will contain the risks associated with the company.
   
+  *Policy Database* - Holds existing and new policy information.
 
 ###Processes:
   
